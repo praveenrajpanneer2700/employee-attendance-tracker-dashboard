@@ -130,11 +130,10 @@ Upload screenshots with these names:
 
 After uploading screenshots, add:
 
-<img width="404" height="323" alt="dashboard-overview" src="https://github.com/user-attachments/assets/b5f4bcd4-89ea-4b0a-a57e-4b2de7d12565" />
-
 <p align="center">
-  <img src="./attendance-dashboard-overview.png" width="1000">
+  <img src="https://github.com/user-attachments/assets/your-link" alt="dashboard-overview" width="1000">
 </p>
+
 
 
 ## 🚀 Skills Demonstrated
