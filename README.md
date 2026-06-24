@@ -130,11 +130,10 @@ Upload screenshots with these names:
 
 After uploading screenshots, add:
 
-![Dashboard Overview](./attendance-dashboard-overview.png)
+![Dashboard Overview](./attendance-das<img width="404" height="323" alt="dashboard-overview" src="https://github.com/user-attachments/assets/b5f4bcd4-89ea-4b0a-a57e-4b2de7d12565" />
+hboard-overview.png)
 
-![KPI Section](./attendance-kpi-section.png)
 
-![Charts Section](./attendance-charts-section.png)
 
 ---
 
