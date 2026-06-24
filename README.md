@@ -130,7 +130,7 @@ Upload screenshots with these names:
 
 After uploading screenshots, add:
 
-<img align="center" width="1000" height="323" alt="dashboard-overview" src="https://github.com/user-attachments/assets/c6cf72d5-d532-4568-9da6-73f11d14df9a" />
+<img  width="700" height="323" alt="dashboard-overview" src="https://github.com/user-attachments/assets/c6cf72d5-d532-4568-9da6-73f11d14df9a" />
 
 
 
